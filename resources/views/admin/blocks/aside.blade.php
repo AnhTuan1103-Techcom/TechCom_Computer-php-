@@ -84,6 +84,13 @@
                     </a>
                 </li>
 
+                <li>
+                    <a class="sidenav-item-link" href="{{ route('admin.comments.index') }}">
+                        <i class="mdi mdi-receipt"></i>
+                        <span class="nav-text">Comment</span>
+                    </a>
+                </li>
+
 
 
 
